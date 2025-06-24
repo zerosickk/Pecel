@@ -1,0 +1,33 @@
+body {
+  background: #fffae6;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container {
+  background: #fff8dc;
+  padding: 30px;
+  margin: auto;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  border-radius: 8px;
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+  width: 90%;
+}
+
+button {
+  background-color: #f4a460;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e38e36;
+}
